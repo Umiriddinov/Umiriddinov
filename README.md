@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<a href="t.me//DotNetjon">
+<a href="https://t.me/DotNetjon">
   <img align="left" alt="Umiriddinov | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
 </a>
 <a href="umiriddinovt@gmail.com">
