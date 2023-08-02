@@ -1,4 +1,4 @@
-### Hi 👋 Temurbek Umiriddinov
+### Hi there 👋 My Name is Temurbek
 
 - Website: http://umiriddinov.uz/
 - How to reach me: umiriddinovt@gmail.com 
