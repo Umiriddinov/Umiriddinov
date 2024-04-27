@@ -2,7 +2,6 @@
 
 - Website: http://umiriddinov.uz/
 - How to reach me: umiriddinovt@gmail.com 
-- I’m currently learning **.NET**
 <!--- Skills: Python, C , MySql, PostgreSql, Git, SOLID, RestApi, Clean architecture, MVC architecture, OOP, Asp.net, Wpf, WinForm-->
 
 ### Connect with me:
